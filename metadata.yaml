@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33641
     wikipedia: http://es.wikipedia.org/wiki/Miguel_Can%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29014#En-viaje--1881-1882-
 gutenberg_issued: '2009-05-31'
 gutenberg_type: Text
 identifiers:
