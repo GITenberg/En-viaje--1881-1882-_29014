@@ -1,0 +1,29 @@
+_repo: En-viaje--1881-1882-_29014
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cané, Miguel
+    alias: Cane, Miguel
+    birthdate: 1851
+    deathdate: 1905
+    gutenberg_agent_id: '33641'
+    url: http://www.gutenberg.org/2009/agents/33641
+    wikipedia: http://es.wikipedia.org/wiki/Miguel_Can%C3%A9
+description: ''
+gutenberg_issued: '2009-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29014'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Colombia -- Description and travel'
+- !lcsh 'Voyages and travels'
+title: En viaje (1881-1882)
+url: http://www.gutenberg.org/ebooks/29014
